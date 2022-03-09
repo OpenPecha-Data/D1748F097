@@ -70,13 +70,13 @@ annotations:
     reference: ''
     span:
       start: 11176
-      end: 12636
+      end: 12637
   84f45c167b6541d0af0a6ec4756273d0:
     imgnum: 1857
     reference: ''
     span:
-      start: 12638
-      end: 12876
+      start: 12639
+      end: 12877
 local_ids:
   7c721b98e428442ba5aa65d8b4924314: 200000
   885c09a6257941a08bbe67db24fcdd92: 200001
